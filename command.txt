@@ -6,3 +6,5 @@
 6. git remote add origin url
 7. git remote -v
 8. git push -u origin master
+9. git branch branch_name           (for new branch)
+10.git checkout branch_namme        (for switching branch)
